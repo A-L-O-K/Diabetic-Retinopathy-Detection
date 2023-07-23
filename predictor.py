@@ -1,5 +1,6 @@
 from tensorflow.keras.models import load_model
-import cv2, numpy as np
+import cv2
+import numpy as np
 
 
 myModel = load_model('myModel.h5')
