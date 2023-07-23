@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 from PIL import Image
 import checker
-
+import predictor as pred
 
 st.title("Diabetics detection")
 st.write("This is a simple image classification web app to predict whether a person is diabetic or not")
