@@ -4,5 +4,5 @@ sklearn==0.0
 torch == 2.0.1
 tensorflow
 numpy==1.21.2
-opencv-python
-Pillow
+opencv-python == 4.5.4.60
+Pillow == 8.4.0
