@@ -5,6 +5,6 @@ Diabetic retinopathy (DR) is a debilitating eye condition that affects millions 
 
 This program will predict the above thing.
 
-There is a feature to ask question about diabetic retinopathy
+There is a feature to ask question about the diabetic retinopathy
 
 Streamlit GUI link : https://diabetic-retinopathy-detection-xqutci6yfwl.streamlit.app
